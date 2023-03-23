@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Aplicativo ainda sem nome
 
-`CURSO`
+`TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`Turma 03 - 2023/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa o desenvolvimento de uma aplicação móvel para centralização de notícias sobre o mercado financeiro. No aplicativo, os usuários poderão se cadastrar para inserir links de notícias que acharem relevantes de assuntos relacionados à finanças, como investimentos, bitcoins, ações e bolsa de valores, de forma a concentrar a informação dispersa na internet facilitando a vida das pessoas que possuem interesse no tema.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alexandre Magalhães Ribeiro
+* Fabio Furlan Cavalcante
+* Flávio Amaral Lopes
+* Giovanna Dantas Almeida Da Silva
+* João Victor Ramires Guimarães Brito
+* Joice Ferreira Passos
+* Mariana Marcela Mercier de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Mateus Curcino De Lima
 
 ## Instruções de utilização
 
