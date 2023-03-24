@@ -1,8 +1,12 @@
 # Introdução
 
-TTexto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A internet é uma rede global de conexões que utilizam um conjunto próprio de protocolos com o objetivo de servir usuários do mundo inteiro, permitindo um compartilhamento instantâneo de dados entre dispositivos. Todos os dias, segundo um levantamento realizado pela BigWeb, que é uma ferramenta de varredura da internet, são criados aproximadamente 20 mil novos sites por dia, e devido a falta de manutenção dada pelos seus criadores, esse site é considerado morto. 
 
 ## Problema
+
+Com esse grande número de sites sendo criados todos os dias, chega o problema que no Brasil é conhecido como "Fake News", que segundo o dicionário são "Notícias falsas ou informações mentirosas que são compartilhadas como se fossem reais ou verdadeiras", fazendo com que o usuário seja bombardeado e acabe por tomar decisões equivocadas a respeito de seus investimentos.
+
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
