@@ -47,13 +47,33 @@ Considerando as informações anteriores, fica evidente a necessidade de uma pla
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do aplicativo móvel proposto são brasileiros interessados em investimentos no mercado financeiro, que estão buscando informações relevantes para tomar decisões assertivas. Eles podem ser investidores iniciantes ou experientes que buscam se manter atualizados sobre as últimas notícias e tendências do mercado financeiro. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+### Personas:
+
+1. Investidor iniciante:
+   - João, 24 anos
+   - Recém-formado em Administração
+   - Trabalha em uma startup
+   - Tem um dinheiro guardado e está interessado em investir em ações
+   - Busca informações sobre como começar a investir na Bolsa de Valores e quais são as melhores opções de investimento para o seu perfil
+   - Usa o aplicativo móvel para acompanhar notícias do mercado financeiro e acessar ferramentas de análise de investimentos
+
+2. Investidor experiente:
+   - Maria, 40 anos
+   - Professora universitária
+   - Tem uma carteira de investimentos diversificada
+   - Acompanha diariamente as notícias do mercado financeiro e toma decisões de investimento com base nas informações disponíveis
+   - Usa o aplicativo móvel para receber notificações sobre as últimas notícias e tendências do mercado financeiro e para realizar análises de seus investimentos
+
+### Mapa de stakeholders:
+- Usuários do aplicativo móvel: principais interessados na plataforma e que serão impactados diretamente por sua funcionalidade e conteúdo.
+- Desenvolvedores do aplicativo: equipe responsável pelo desenvolvimento e manutenção do aplicativo móvel, responsável por garantir sua eficiência e qualidade.
+- Portais de notícias: fornecedores de conteúdo e informações relevantes sobre o mercado financeiro, com o objetivo de manter os usuários do aplicativo informados e atualizados.
+- Empresas de investimento: podem patrocinar o aplicativo móvel para aumentar sua visibilidade e divulgar seus serviços e produtos para o público-alvo.
+
 
 > **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - [Banco Central do Brasil](https://blog.hotmart.com/pt-br/publico-alvo/)
+> - [Infomoney]( https://www.infomoney.com.br/)
+> - [UOL Economia](https://economia.uol.com.br/)
