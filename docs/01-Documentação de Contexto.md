@@ -16,9 +16,18 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver uma aplicação móvel interativa e fácil de usar, com o propósito de compartilhar notícias sobre o mercado financeiro. Essa aplicação permitirá aos usuários acessar informações financeiras atualizadas e relevantes, de forma organizada e conveniente.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Para atingir esse objetivo, serão realizadas as seguintes atividades:
+
+1. **Integração com portais de notícias relacionados ao mercado financeiro:** A aplicação será integrada com portais de notícias financeiras conceituados, para que o usuário tenha acesso a conteúdo atualizado e de alta qualidade.
+
+2. **Cadastro de usuários:** Para utilizar a aplicação, os usuários deverão se cadastrar e criar uma conta. O cadastro permitirá aos usuários personalizar a sua experiência na aplicação, incluindo a escolha dos tópicos de interesse.
+
+3. **Organização das notícias por tópicos:** As notícias serão organizadas por tópicos, como mercado de ações, câmbio, commodities, entre outros. Isso permitirá aos usuários acessar rapidamente as informações que são relevantes para eles, tornando a experiência de uso da aplicação mais eficiente.
+
+Em resumo, o objetivo geral deste projeto é desenvolver uma aplicação móvel que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
