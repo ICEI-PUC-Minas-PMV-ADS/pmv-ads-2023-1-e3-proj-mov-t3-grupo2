@@ -34,12 +34,16 @@ Em resumo, o objetivo geral deste projeto é desenvolver uma aplicação móvel 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com o Banco Central, o número de brasileiros que investem na Bolsa de Valores aumentou 95% entre 2019 e 2021. Foram quase dois milhões de brasileiros a mais investindo. Em uma matéria do UOL em fevereiro de 2022, foi evidenciado que a busca por informações sobre investimento cresceu, tendo como impulso a pandemia e a crise econômica enfrentada pelo país.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Em resumo, é possível afirmar que a busca por informações e investimentos no mercado financeiro tem crescido entre os brasileiros nos últimos anos, impulsionada por diversos fatores, como a pandemia e a crise econômica, além da facilidade de acesso às informações e da necessidade de se planejar para o futuro.
+
+Considerando as informações anteriores, fica evidente a necessidade de uma plataforma que possibilite o compartilhamento de notícias do mercado financeiro de maneira eficiente. Um aplicativo móvel pode ser a solução ideal para atender a essa demanda, oferecendo aos usuários acesso rápido e fácil a informações relevantes sobre investimentos, atendendo a uma necessidade crescente entre os brasileiros que buscam informações e planejamento para seus investimentos.
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [Matéria do UOL: "Crise e pandemia fazem brasileiro buscar mais informações sobre finanças pessoais"](https://economia.uol.com.br/financas-pessoais/noticias/redacao/2022/02/28/financas-pessoais-investimentos-mercado-financeiro.htm)
+> - [Dados do Banco Central sobre o número de investidores na Bolsa de Valores](https://www.bcb.gov.br/estatisticas/reporttxjuros)
+> - [Dados do Google sobre as buscas relacionadas a investimentos: ](https://www.google.com.br/intl/pt-BR/2022/02/trends-investimento-brasil-2022/)
 
 ## Público-Alvo
 
