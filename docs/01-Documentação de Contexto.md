@@ -1,6 +1,6 @@
 # Introdução
 
-O mercado financeiro é um setor complexo e em constante evolução, que gera uma grande quantidade de informações e notícias surgindo a cada dia. Com a crescente dispersão de informações na internet, pode ser difícil para as pessoas encontrar e filtrar notícias relevantes para suas necessidades específicas sobre o tema. 
+O mercado financeiro é um setor complexo e em constante evolução, que gera uma grande quantidade de informações e notícias a cada dia. Com a crescente dispersão de informações na internet, pode ser difícil para as pessoas encontrar e filtrar notícias relevantes para suas necessidades específicas sobre o tema. 
 
 De acordo com um levantamento realizado por uma ferramenta de varredura da internet (BigWeb), são criados diariamente aproximadamente 20 mil novos sites dos mais diversos tipos. Com a veiculação de conteúdos ocorrendo de forma tão distribuída, passa a ser uma tarefa bastante árdua a centralização de informações sobre um determinado assunto.
 
