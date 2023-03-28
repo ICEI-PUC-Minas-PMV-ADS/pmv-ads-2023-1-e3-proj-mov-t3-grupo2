@@ -16,17 +16,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver uma aplicação móvel interativa e fácil de usar, com o propósito de compartilhar notícias sobre o mercado financeiro. Essa aplicação permitirá aos usuários acessar informações financeiras atualizadas e relevantes, de forma organizada e conveniente.
-
-Para atingir esse objetivo, serão realizadas as seguintes atividades:
-
-1. **Integração com portais de notícias relacionados ao mercado financeiro:** A aplicação será integrada com portais de notícias financeiras conceituados, para que o usuário tenha acesso a conteúdo atualizado e de alta qualidade.
-
-2. **Cadastro de usuários:** Para utilizar a aplicação, os usuários deverão se cadastrar e criar uma conta. O cadastro permitirá aos usuários personalizar a sua experiência na aplicação, incluindo a escolha dos tópicos de interesse.
-
-3. **Organização das notícias por tópicos:** As notícias serão organizadas por tópicos, como mercado de ações, câmbio, commodities, entre outros. Isso permitirá aos usuários acessar rapidamente as informações que são relevantes para eles, tornando a experiência de uso da aplicação mais eficiente.
-
-Em resumo, o objetivo geral deste projeto é desenvolver uma aplicação móvel que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
+O objetivo geral deste projeto é desenvolver uma aplicação móvel  interativa e fácil de usar que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
 
  
 > **Links Úteis**:
@@ -48,23 +38,6 @@ Considerando as informações anteriores, fica evidente a necessidade de uma pla
 ## Público-Alvo
 
 O público-alvo do aplicativo móvel proposto são brasileiros interessados em investimentos no mercado financeiro, que estão buscando informações relevantes para tomar decisões assertivas. Eles podem ser investidores iniciantes ou experientes que buscam se manter atualizados sobre as últimas notícias e tendências do mercado financeiro. 
-
-### Personas:
-
-1. Investidor iniciante:
-   - João, 24 anos
-   - Recém-formado em Administração
-   - Trabalha em uma startup
-   - Tem um dinheiro guardado e está interessado em investir em ações
-   - Busca informações sobre como começar a investir na Bolsa de Valores e quais são as melhores opções de investimento para o seu perfil
-   - Usa o aplicativo móvel para acompanhar notícias do mercado financeiro e acessar ferramentas de análise de investimentos
-
-2. Investidor experiente:
-   - Maria, 40 anos
-   - Professora universitária
-   - Tem uma carteira de investimentos diversificada
-   - Acompanha diariamente as notícias do mercado financeiro e toma decisões de investimento com base nas informações disponíveis
-   - Usa o aplicativo móvel para receber notificações sobre as últimas notícias e tendências do mercado financeiro e para realizar análises de seus investimentos
 
 ### Mapa de stakeholders:
 - Usuários do aplicativo móvel: principais interessados na plataforma e que serão impactados diretamente por sua funcionalidade e conteúdo.
