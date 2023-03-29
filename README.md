@@ -1,4 +1,4 @@
-# Aplicativo ainda sem nome
+# Finance News
 
 `TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
