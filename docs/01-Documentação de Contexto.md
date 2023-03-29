@@ -26,9 +26,8 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver uma aplicação móvel  interativa e fácil de usar que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -36,23 +35,30 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com o Banco Central, o número de brasileiros que investem na Bolsa de Valores aumentou 95% entre 2019 e 2021. Foram quase dois milhões de brasileiros a mais investindo. Em uma matéria do UOL em fevereiro de 2022, foi evidenciado que a busca por informações sobre investimento cresceu, tendo como impulso a pandemia e a crise econômica enfrentada pelo país.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Em resumo, é possível afirmar que a busca por informações e investimentos no mercado financeiro tem crescido entre os brasileiros nos últimos anos, impulsionada por diversos fatores, como a pandemia e a crise econômica, além da facilidade de acesso às informações e da necessidade de se planejar para o futuro.
+
+Considerando as informações anteriores, fica evidente a necessidade de uma plataforma que possibilite o compartilhamento de notícias do mercado financeiro de maneira eficiente. Um aplicativo móvel pode ser a solução ideal para atender a essa demanda, oferecendo aos usuários acesso rápido e fácil a informações relevantes sobre investimentos, atendendo a uma necessidade crescente entre os brasileiros que buscam informações e planejamento para seus investimentos.
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [Matéria do UOL: "Crise e pandemia fazem brasileiro buscar mais informações sobre finanças pessoais"](https://economia.uol.com.br/financas-pessoais/noticias/redacao/2022/02/28/financas-pessoais-investimentos-mercado-financeiro.htm)
+> - [Dados do Banco Central sobre o número de investidores na Bolsa de Valores](https://www.bcb.gov.br/estatisticas/reporttxjuros)
+> - [Dados do Google sobre as buscas relacionadas a investimentos: ](https://www.google.com.br/intl/pt-BR/2022/02/trends-investimento-brasil-2022/)
 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo do aplicativo móvel proposto são brasileiros interessados em investimentos no mercado financeiro, que estão buscando informações relevantes para tomar decisões assertivas. Eles podem ser investidores iniciantes ou experientes que buscam se manter atualizados sobre as últimas notícias e tendências do mercado financeiro. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+### Mapa de stakeholders:
+- Usuários do aplicativo móvel: principais interessados na plataforma e que serão impactados diretamente por sua funcionalidade e conteúdo.
+- Desenvolvedores do aplicativo: equipe responsável pelo desenvolvimento e manutenção do aplicativo móvel, responsável por garantir sua eficiência e qualidade.
+- Portais de notícias: fornecedores de conteúdo e informações relevantes sobre o mercado financeiro, com o objetivo de manter os usuários do aplicativo informados e atualizados.
+- Empresas de investimento: podem patrocinar o aplicativo móvel para aumentar sua visibilidade e divulgar seus serviços e produtos para o público-alvo.
+
 
 > **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - [Banco Central do Brasil](https://blog.hotmart.com/pt-br/publico-alvo/)
+> - [Infomoney]( https://www.infomoney.com.br/)
+> - [UOL Economia](https://economia.uol.com.br/)
