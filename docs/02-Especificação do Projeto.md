@@ -44,22 +44,19 @@ Cadastro do usuário: O aplicativo reune as pessoas com interesses em comum sobr
 
 Coleta de notícias: O aplicativo coleta as notícias através de postagens realizadas pelos usuários cadastrados.
 
-Interação do usuário: Os usuários podem interagir com o aplicativo, curtindo ou compartilhando as notícias. 
-
 Distribuição de notícias: As notícias são distribuídas para os usuários do aplicativo no formato de links para os artigos completos. 
 
 Monetização: O aplicativo pode gerar receita por meio de publicidade e assinaturas premium que ofereçam recursos adicionais.
 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – LOGIN
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+
 
 ![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – CADASTRO E DISTRIBUIÇÃO DE NOTÍCIAS
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
