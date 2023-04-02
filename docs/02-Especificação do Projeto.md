@@ -91,8 +91,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Usabilidade: o aplicativo deve ter uma interface intuitiva, com botões bem definidos e fácil navegação| ALTA | 
 |RNF-002| Desempenho: o aplicativo deve ser rápido em todas as suas funcionalidades | ALTA | 
 |RNF-003| Compatibilidade: o aplicativo deve funcionar em diferentes dispositivos e plataformas |  ALTA | 
-|RNF-003| Responsividade: o aplicativo deve ser responsivo para rodar em dispositivos móveis |  ALTA | 
-|RNF-002| Segurança: os dados do usuário devem ser armazenados de forma segura e protegidos contra possíveis invasões ou vazamentos de informações.|  ALTA | 
+|RNF-004| Responsividade: o aplicativo deve ser responsivo para rodar em dispositivos móveis |  ALTA | 
+|RNF-005| Segurança: os dados do usuário devem ser armazenados de forma segura e protegidos contra possíveis invasões ou vazamentos de informações.|  ALTA | 
 
 
 ## Restrições
