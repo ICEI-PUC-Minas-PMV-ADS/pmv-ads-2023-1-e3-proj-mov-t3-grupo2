@@ -52,13 +52,12 @@ Monetização: O aplicativo pode gerar receita por meio de publicidade e assinat
 ### Processo 1 – LOGIN
 
 
-
-![Processo 1](img/02-bpmn-proc1.png)
+![Processo 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/blob/main/docs/img/diagrama_login.jpg)
 
 ### Processo 2 – CADASTRO E DISTRIBUIÇÃO DE NOTÍCIAS
 
 
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/blob/main/docs/img/diagrama_cadastro.jpg)
 
 ## Indicadores de Desempenho
 
