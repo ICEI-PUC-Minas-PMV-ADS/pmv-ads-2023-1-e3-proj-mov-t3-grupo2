@@ -12,25 +12,19 @@ Portanto, é crucial que investidores e empreendedores mantenham-se atualizados 
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Devido aos movimentos rápidos e frequentes do mercado financeiro, para os investidores e profissionais do setor é crucial estar sempre atualizado sobre as últimas notícias e tendências para tomar decisões informadas e obter sucesso em suas atividades.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+No entanto, a informação sobre o mercado financeiro está dispersa em diferentes fontes, como sites de notícias, redes sociais, blogs, podcasts e outras plataformas de mídia. Isso torna difícil para os usuários acompanhar todas as informações relevantes e atualizadas em um só lugar.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+É aqui que entra a necessidade de um aplicativo concentrador de notícias sobre o mercado financeiro. Esse aplicativo pode reunir todas as informações relevantes sobre o mercado financeiro em um só lugar, oferecendo aos usuários uma visão geral completa das últimas notícias, tendências e insights. Ele permite que os usuários economizem tempo e esforço na busca por informações relevantes e ajuda a garantir que eles não percam nenhuma notícia importante.
+
+Assim, a necessidade deste aplicativo pode ser vista como a resolução de um problema para aqueles que precisam de uma fonte confiável e abrangente de informações sobre o mercado financeiro, tornando mais fácil e rápido se manter atualizado e tomar decisões informadas.
 
 
 ## Objetivos
 
 O objetivo geral deste projeto é desenvolver uma aplicação móvel  interativa e fácil de usar que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
-
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ## Justificativa
@@ -57,8 +51,3 @@ O público-alvo do aplicativo móvel proposto são brasileiros interessados em i
 - Portais de notícias: fornecedores de conteúdo e informações relevantes sobre o mercado financeiro, com o objetivo de manter os usuários do aplicativo informados e atualizados.
 - Empresas de investimento: podem patrocinar o aplicativo móvel para aumentar sua visibilidade e divulgar seus serviços e produtos para o público-alvo.
 
-
-> **Links Úteis**:
-> - [Banco Central do Brasil](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Infomoney]( https://www.infomoney.com.br/)
-> - [UOL Economia](https://economia.uol.com.br/)
