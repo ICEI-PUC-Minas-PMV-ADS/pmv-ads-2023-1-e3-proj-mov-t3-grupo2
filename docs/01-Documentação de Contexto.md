@@ -18,10 +18,6 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 O objetivo geral deste projeto é desenvolver uma aplicação móvel  interativa e fácil de usar que permita aos usuários acessar notícias financeiras atualizadas e relevantes de forma organizada e conveniente. Para alcançar esse objetivo, a aplicação será integrada com portais de notícias financeiras, terá um sistema de cadastro de usuários e organizará as notícias por tópicos.
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 De acordo com o Banco Central, o número de brasileiros que investem na Bolsa de Valores aumentou 95% entre 2019 e 2021. Foram quase dois milhões de brasileiros a mais investindo. Em uma matéria do UOL em fevereiro de 2022, foi evidenciado que a busca por informações sobre investimento cresceu, tendo como impulso a pandemia e a crise econômica enfrentada pelo país.
