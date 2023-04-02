@@ -136,14 +136,21 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 ![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/blob/main/docs/img/gantt.jpg)
 
-## Gerenciamento de Equipe
-
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
-
-![Simple Project Timeline](img/02-project-timeline.png)
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+Os custos envolvidos em um projeto de aplicativo móvel podem variar muito dependendo do tamanho e complexidade do aplicativo, bem como da experiência da equipe de desenvolvimento. Aqui estão alguns dos principais custos a serem considerados:
 
-![Orçamento](img/02-orcamento.png)
+Desenvolvimento de software: este é o custo de desenvolvimento do aplicativo em si. Isso pode incluir design de interface do usuário (UI), programação, testes e resolução de bugs.
+
+Serviços em nuvem: muitos aplicativos móveis precisam de serviços em nuvem para armazenar dados do usuário, processar informações ou fornecer recursos adicionais. Os custos desses serviços geralmente dependem do número de usuários e do uso do aplicativo.
+
+Design gráfico: O design gráfico é um elemento importante do aplicativo móvel, pois afeta a experiência do usuário. Isso pode incluir o design de ícones, telas, gráficos e outros elementos visuais.
+
+Marketing: Uma vez que o aplicativo esteja pronto, você precisará promovê-lo para obter usuários. Isso pode incluir publicidade em redes sociais, publicidade paga em aplicativos móveis, relações públicas e outras táticas de marketing.
+
+Manutenção: após o lançamento do aplicativo, você precisará fazer atualizações regulares para corrigir bugs, adicionar recursos e melhorar a experiência do usuário. Isso pode incluir a contratação de uma equipe de desenvolvimento para manter o aplicativo ou o uso de serviços de terceiros.
+
+Outros custos: outros custos envolvidos em um projeto de aplicativo móvel podem incluir taxas de rede, custos de hospedagem, serviços de terceitos e outras despesas relacionadas à operação e manutenção do aplicativo.
+
+![Orçamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/blob/main/docs/img/custos.png)
