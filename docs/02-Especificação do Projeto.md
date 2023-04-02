@@ -77,19 +77,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário se cadastre | ALTA | 
-|RF-002| Permitir que o usuário realize o login | ALTA |
-|RF-003| Permitir que o usuário visualize a lista de links com as notícias mais recentes | ALTA |
-|RF-004| Permitir que o usuário cadastre uma nova notícia | ALTA |
-|RF-005| Permitir que o usuário possa interagir curtindo uma notícia  | BAIXA |
+|RF-001| O aplicativo deve permitir que o usuário se cadastre | ALTA | 
+|RF-002| O aplicativo deve permitir que o usuário realize o login | ALTA |
+|RF-003| O aplicativo deve permitir que o usuário visualize a lista de links com as notícias mais recentes | ALTA |
+|RF-004| O aplicativo deve permitir que o usuário cadastre uma nova notícia | ALTA |
+|RF-005| O aplicativo deve permitir que o usuário possa interagir curtindo uma notícia  | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Usabilidade: o aplicativo deve ter uma interface intuitiva, com botões bem definidos e fácil navegação| ALTA | 
+|RNF-002| Desempenho: o aplicativo deve ser rápido em todas as suas funcionalidades | ALTA | 
+|RNF-003| Compatibilidade: o aplicativo deve funcionar em diferentes dispositivos e plataformas |  ALTA | 
+|RNF-003| Responsividade: o aplicativo deve ser responsivo para rodar em dispositivos móveis |  ALTA | 
+|RNF-002| Segurança: os dados do usuário devem ser armazenados de forma segura e protegidos contra possíveis invasões ou vazamentos de informações.|  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
