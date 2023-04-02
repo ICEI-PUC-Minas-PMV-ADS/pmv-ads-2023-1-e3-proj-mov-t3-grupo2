@@ -147,7 +147,7 @@ Serviços em nuvem: muitos aplicativos móveis precisam de serviços em nuvem pa
 
 Design gráfico: O design gráfico é um elemento importante do aplicativo móvel, pois afeta a experiência do usuário. Isso pode incluir o design de ícones, telas, gráficos e outros elementos visuais.
 
-Marketing: Uma vez que o aplicativo esteja pronto, você precisará promovê-lo para obter usuários. Isso pode incluir publicidade em redes sociais, publicidade paga em aplicativos móveis, relações públicas e outras táticas de marketing.
+Marketing: Uma vez que o aplicativo esteja pronto, será necessário promovê-lo para obter usuários. Isso pode incluir publicidade em redes sociais, publicidade paga em aplicativos móveis, relações públicas e outras táticas de marketing.
 
 Manutenção: após o lançamento do aplicativo, você precisará fazer atualizações regulares para corrigir bugs, adicionar recursos e melhorar a experiência do usuário. Isso pode incluir a contratação de uma equipe de desenvolvimento para manter o aplicativo ou o uso de serviços de terceiros.
 
