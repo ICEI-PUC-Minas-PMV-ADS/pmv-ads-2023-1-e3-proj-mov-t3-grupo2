@@ -32,11 +32,24 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, os usuários interessados em acompanhar as notícias sobre o mercado financeiro precisam verificar várias fontes diferentes, como sites de notícias, redes sociais, blogs e outras plataformas de mídia, o que pode ser demorado e confuso. Além disso, essas fontes podem ser tendenciosas ou desatualizadas, o que pode levar a decisões equivocadas de investimento. Portanto, há uma necessidade clara de um aplicativo que centralize todas as informações relevantes sobre o mercado financeiro em um só lugar.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Em resumo, o modelo de negócio do aplicativo Finance News se baseia na coleta e distribuição de notícias relevantes para os usuários, com a possibilidade de interação do usuário, além da monetização por meio de publicidade e assinaturas premium.
+
+Modelagem do processo de negócio:
+
+Cadastro do usuário: O aplicativo reune as pessoas com interesses em comum sobre o tema financeiro. 
+
+Coleta de notícias: O aplicativo coleta as notícias através de postagens realizadas pelos usuários cadastrados.
+
+Interação do usuário: Os usuários podem interagir com o aplicativo, curtindo ou compartilhando as notícias. 
+
+Distribuição de notícias: As notícias são distribuídas para os usuários do aplicativo no formato de links para os artigos completos. 
+
+Monetização: O aplicativo pode gerar receita por meio de publicidade e assinaturas premium que ofereçam recursos adicionais.
+
 
 ### Processo 1 – NOME DO PROCESSO
 
