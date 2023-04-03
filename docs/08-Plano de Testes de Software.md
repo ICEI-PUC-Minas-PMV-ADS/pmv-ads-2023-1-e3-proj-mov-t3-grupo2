@@ -24,7 +24,7 @@ Este plano de testes tem como objetivo garantir que a aplicação móvel desenvo
 |Critério de Êxito | - A tela de login deve abrir corretamente. - O login e senha cadastrados devem direcionar o usuário para a tela principal do aplicativo. - Login e senha incorretos devem exibir uma mensagem de erro informando que os dados informados estão incorretos. |
 |  	|  	|
 
-| **Caso de Teste** 	| **CT-003 – Visualização de Notícias* 	|
+| **Caso de Teste** 	| **CT-003 – Visualização de Notícias** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-003 – Exibição de Notícias |
 | Objetivo do Teste 	| Verificar se a lista de notícias é exibida corretamente na aplicação. |
@@ -33,7 +33,7 @@ Este plano de testes tem como objetivo garantir que a aplicação móvel desenvo
 |Critério de Êxito | - A lista de notícias deve ser exibida corretamente, com o título de cada notícia - A lista deve ser ordenada por data de publicação, do mais recente para o mais antigo. |
 |  	|  	|
 
-| **Caso de Teste** 	| **CT-004 – Envio de Notícias* 	|
+| **Caso de Teste** 	| **CT-004 – Envio de Notícias** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-004 – Envio de Notícias |
 | Objetivo do Teste 	| Verificar se é possível enviar uma notícia com sucesso através do aplicativo. |
@@ -42,7 +42,7 @@ Este plano de testes tem como objetivo garantir que a aplicação móvel desenvo
 |Critério de Êxito | - O aplicativo deve permitir o envio de notícias com título e link; - Após o envio, o usuário deve redirecionado para pagina inicial; - A noticia cadastrada deve aparecer na primeira colocação da lista.|
 |  	|  	|
 
-| **Caso de Teste** 	| **CT-005 – Curtir uma Notícia* 	|
+| **Caso de Teste** 	| **CT-005 – Curtir uma Notícia** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-005 – Curtir uma Notícia |
 | Objetivo do Teste 	| Verificar se é possível curtir uma notícia com sucesso através do aplicativo. |
