@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este plano de testes tem como objetivo garantir que a aplicação móvel desenvolvida atenda aos requisitos funcionais e não funcionais, além de verificar sua usabilidade, desempenho, compatibilidade, responsividade e segurança. O escopo deste plano de testes inclui as funcionalidades da aplicação móvel, conforme descritas nos requisitos funcionais e não funcionais.
+Este plano de testes tem como objetivo garantir que o  Finance Newsa atenda aos requisitos funcionais e não funcionais, além de verificar sua usabilidade e segurança. O escopo deste plano de testes inclui as funcionalidades da aplicação móvel, conforme descritas nos requisitos funcionais e não funcionais.
 
 ## Cenários de Teste
 
