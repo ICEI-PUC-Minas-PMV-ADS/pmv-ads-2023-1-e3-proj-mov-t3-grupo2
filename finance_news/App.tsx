@@ -1,20 +1,7 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { News } from '@screens/News'
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Finance News!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+    <News />
+  )
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
