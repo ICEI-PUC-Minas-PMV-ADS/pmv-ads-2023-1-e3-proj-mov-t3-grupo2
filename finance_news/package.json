@@ -10,17 +10,18 @@
     "api": "json-server db.json -p 3000 -w -d 500"
   },
   "dependencies": {
+    "@expo/webpack-config": "^18.0.1",
     "expo": "~48.0.10",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.6",
-    "react-native-web": "~0.18.10",
     "react-dom": "18.2.0",
-    "@expo/webpack-config": "^18.0.1"
+    "react-native": "0.71.6",
+    "react-native-web": "~0.18.10"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.0.14",
+    "babel-plugin-module-resolver": "^5.0.0",
     "json-server": "^0.17.3",
     "typescript": "^4.9.4"
   },
