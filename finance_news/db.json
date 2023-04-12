@@ -5,7 +5,16 @@
       "title": "O que é pix?",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
       "likes": 0,
+      "userId": 1,
       "createdAt": "2023-04-07T16:42:21.461Z"
+    },
+    {
+      "title": "Cotações e Boletins de Câmbio do BCB",
+      "link": "https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-12T01:39:01.085Z",
+      "id": 2
     }
   ],
   "users": [
