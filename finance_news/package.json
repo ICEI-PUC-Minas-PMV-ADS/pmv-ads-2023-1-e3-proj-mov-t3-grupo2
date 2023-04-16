@@ -7,7 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "api": "json-server-auth db.json -p 3000 -w -d 500"
+    "api": "json-server-auth --host 192.168.50.95 db.json -p 3000 -w",
+    "tunnel": "npx localtunnel --port 3000"
   },
   "dependencies": {
     "@expo-google-fonts/roboto": "^0.2.3",
