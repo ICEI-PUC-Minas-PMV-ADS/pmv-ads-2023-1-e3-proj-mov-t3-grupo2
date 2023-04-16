@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { DatePickerIOSBase, FlatList } from "react-native";
+import { FlatList } from "react-native";
 
 import { Header } from "@components/Header";
 import { Highlight } from "@components/Highlight";
@@ -36,7 +36,7 @@ export function News() {
           <NewsCard
             title={item.title}
             link={item.link}
-            author={item.user.login}
+            author={item.user.name}
           />
         }
       />
