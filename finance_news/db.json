@@ -1,12 +1,12 @@
 {
   "news": [
     {
-      "id": 1,
       "title": "O que é pix?",
       "link": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
       "likes": 0,
       "userId": 1,
-      "createdAt": "2023-04-07T16:42:21.461Z"
+      "createdAt": "2023-04-07T16:42:21.461Z",
+      "id": 1
     },
     {
       "title": "Cotações e Boletins de Câmbio do BCB",
@@ -23,6 +23,22 @@
       "userId": 1,
       "createdAt": "2023-04-16T03:18:56.488Z",
       "id": 3
+    },
+    {
+      "title": "Como investir em Títulos Públicos",
+      "link": "https://www.btgpactualdigital.com/como-investir/artigos/investimentos/como-investir-em-titulos-publicos-vantagens-e-passo-passo",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-07T16:42:21.461Z",
+      "id": 4
+    },
+    {
+      "title": "Millennials e Geração Z: qual a relação dessas gerações com os investimentos?",
+      "link": "https://www.btgpactualdigital.com/como-investir/artigos/coluna-andre-bona/millennials-e-geracao-z-qual-a-relacao-dessas-geracoes-com-os-investimentos",
+      "likes": 0,
+      "userId": 1,
+      "createdAt": "2023-04-12T01:39:01.085Z",
+      "id": 5
     }
   ],
   "users": [
