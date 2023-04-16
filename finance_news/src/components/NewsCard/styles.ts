@@ -3,7 +3,7 @@ import { TouchableOpacity } from 'react-native'
 import { CurrencyDollar } from 'phosphor-react-native'
 
 export const Container = styled(TouchableOpacity)`
-  width: 80%;
+  width: 100%;
   height: auto;
 
   background-color: ${({ theme }) => theme.COLORS.GRAY_500};
