@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { FlatList, StatusBar, Alert } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 import { api } from '@lib/axios';
 
@@ -13,26 +14,28 @@ import { Button } from '@components/Button';
 import { Container } from './styles';
 
 type User = {
-  id: Number
-  name: string
-  email: string
-}
+  id: Number;
+  name: string;
+  email: string;
+};
 
 type New = {
-  id: Number
-  title: string
-  link: string
-  likes: Number
-  createdAt: string
-  user: User
-}
+  id: Number;
+  title: string;
+  link: string;
+  likes: Number;
+  createdAt: string;
+  user: User;
+};
 
 export function News() {
   const [news, setNews] = useState<New[]>();
   const [isLoading, setIsLoading] = useState(true);
 
+  const navigation = useNavigation();
+
   function handleAddNew() {
-    console.log('Navegar para a tela de cadastro de notícias')
+    navigation.navigate('addNew');
   }
 
   async function fetchNews() {
@@ -78,17 +81,16 @@ export function News() {
               author={item.user.name}
             />
           )}
-          contentContainerStyle={(news === undefined || news.length === 0) && { flex: 1 }}
-            ListEmptyComponent={() => (
-              <ListEmpty message="Cadastre a primeira notícia!" />
-            )}
+          contentContainerStyle={
+            (news === undefined || news.length === 0) && { flex: 1 }
+          }
+          ListEmptyComponent={() => (
+            <ListEmpty message="Cadastre a primeira notícia!" />
+          )}
         />
       )}
 
-      <Button 
-        title='Criar nova notícia'
-        onPress={handleAddNew}
-      />
+      <Button title="Criar nova notícia" onPress={handleAddNew} />
     </Container>
   );
 }
