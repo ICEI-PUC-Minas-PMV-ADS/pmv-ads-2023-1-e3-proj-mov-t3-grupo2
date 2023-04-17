@@ -1,19 +1,19 @@
-import { Container, Logo, BackIcon, BackButton } from './styles'
+import { Container, BackIcon, BackButton } from './styles';
+import { Logo } from '@components/Logo';
 
 type HeaderProps = {
-  showBackButton?: boolean
-}
+  showBackButton?: boolean;
+};
 
 export function Header({ showBackButton = false }: HeaderProps) {
   return (
     <Container>
-      {
-        showBackButton &&
+      {showBackButton && (
         <BackButton>
           <BackIcon />
         </BackButton>
-      }
-      <Logo />
+      )}
+      <Logo size={showBackButton ? 56 : 84} />
     </Container>
-  )
+  );
 }

@@ -1,5 +1,5 @@
 import styled from 'styled-components/native';
-import { CaretLeft, CurrencyCircleDollar } from 'phosphor-react-native';
+import { CaretLeft } from 'phosphor-react-native';
 
 export const Container = styled.View`
   width: 100%;
@@ -8,11 +8,6 @@ export const Container = styled.View`
   align-items: center;
   justify-content: center;
 `;
-
-export const Logo = styled(CurrencyCircleDollar).attrs(({ theme }) => ({
-  size: 56,
-  color: theme.COLORS.GREEN_700,
-}))``;
 
 export const BackButton = styled.TouchableOpacity`
   flex: 1;
