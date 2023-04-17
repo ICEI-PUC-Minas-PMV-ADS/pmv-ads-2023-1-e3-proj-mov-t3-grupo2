@@ -38,10 +38,12 @@ export function News() {
     navigation.navigate('addNew');
   }
 
+  // Exibe a lista de notícias em ordem decrescente de criação
+  // Caso as notícias não sejam carregadas, exibe uma mensagem de erro
   async function fetchNews() {
     try {
       setIsLoading(true);
-      const { data } = await api.get('/news/?_expand=user');
+      const { data } = await api.get('/news/?_expand=user&_sort=createdAt&_order=desc');
       setNews(data);
     } catch (error) {
       Alert.alert('Notícias', 'Não foi possível carregar as notícias.');
