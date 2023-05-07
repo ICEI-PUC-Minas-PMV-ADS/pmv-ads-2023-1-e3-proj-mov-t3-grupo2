@@ -3,6 +3,9 @@
 ## INTRODUÇÃO
 O Finance News é um aplicativo para compartilhamento de notícias construído em React Native e JSON-SERVER.
 
+## VIDEO DEMO
+Clique [aqui](https://drive.google.com/file/d/1CiAZGEycML9xZHMR3GzycmPfymRwW1WC/view) para assistir a demo
+
 ## DEPENDÊNCIAS
 * [NodeJS](https://nodejs.org/en), preferencialmente a última versão v19.8.1, mas a LTS deve funcionar.
 * [Expo](https://expo.dev/), preferencialmente versão 0.6.2
