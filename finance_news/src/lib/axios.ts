@@ -4,5 +4,5 @@ import axios from 'axios'
 // Verifique package.json -> scripts.tunnel para mais detalhes
 
 export const api = axios.create({
-  baseURL: 'https://fine-seals-kneel-190-115-199-98.loca.lt'
+  baseURL: 'https://icy-rabbits-cut.loca.lt'
 })

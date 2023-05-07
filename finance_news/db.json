@@ -43,17 +43,30 @@
     {
       "title": "Celso Amorim: Brasil está interessado em estudar adesão à nova Rota da Seda",
       "link": "https://www.infomoney.com.br/economia/celso-amorim-brasil-esta-interessado-em-estudar-adesao-a-nova-rota-da-seda/",
-      "createdAt": "2023-04-17T02:18:41.425Z",
+      "createdAt": "2023-05-07T01:39:22.793Z",
       "userId": 1,
       "id": 6
+    },
+    {
+      "title": "Novo presidente da Funcef quer vender imóveis para reduzir rombo de R$ 20 bi do fundo de pensão da Caixa",
+      "link": "https://www.google.com/amp/s/oglobo.globo.com/google/amp/economia/financas/noticia/2023/05/novo-presidente-da-funcef-quer-vender-imoveis-para-reduzir-rombo-de-r-20-bi-do-fundo-de-pensao-da-caixa.ghtml",
+      "createdAt": "2023-05-07T01:41:27.929Z",
+      "userId": 2,
+      "id": 7
     }
   ],
   "users": [
     {
       "email": "joao@exemplo.com",
       "password": "$2a$10$0ZB/oyUU/2yISII9tbwt.O98iKrWBKiuBCn8H.d0IShMrIjS1/5fW",
-      "name": "joao",
+      "name": "João",
       "id": 1
+    },
+    {
+      "email": "giovanna@exemplo.com",
+      "password": "$2a$10$hXiJ..EbmIJiOBVKQevhN.PVMQ4BPMlNPv1QVlqBZJJGtt01GRjZS",
+      "name": "Giovanna ",
+      "id": 2
     }
   ]
 }

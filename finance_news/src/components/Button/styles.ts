@@ -14,7 +14,7 @@ export const Container = styled(TouchableOpacity)<ButtonProps>`
   max-height: 56px;
 
   background-color: ${({ theme, type }) =>
-    type === 'PRIMARY' ? theme.COLORS.GREEN_700 : theme.COLORS.RED_DARK};
+    type === 'PRIMARY' ? theme.COLORS.GREEN_700 : theme.COLORS.GRAY_300};
 
   border-radius: 6px;
 
