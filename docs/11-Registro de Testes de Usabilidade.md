@@ -21,7 +21,7 @@ Realizar testes de usabilidade é fundamental para avaliar a experiência dos fu
 
 ### Tarefa 1 - Concluir o cadastro e receber notificação de sucesso, sendo direcionado para a tela de login.
 
-| Usuário         | Artefato | Tempo      Qtd. Erros | Se recuperou do erro | Comentários e observações|
+| Usuário         | Artefato | Tempo     | Qtd. Erros | Se recuperou do erro | Comentários e observações|
 |-----------------|----------|-----------|-----------|----------------------|--------------------------|
 | Participante 1  | CT-001    | 00:50:10  | 0        | -                    | -                        |
 | Participante 2  | CT-001    | 00:30:00  | 0        | -                    | -                        |
