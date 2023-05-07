@@ -1,11 +1,21 @@
-# Plano de Testes de Usabilidade
+# Plano de Testes de Usabilidade para o Aplicativo Finance News:
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Este plano tem como propósito a avaliação da eficácia da interface do usuário da aplicação Finance News em dispositivos móveis. Composto por diversos casos de teste, será executado tanto durante a implementação parcial quanto total do aplicativo. Utilizando o método de Medição e Avaliação, será possível aferir a facilidade de realização de ações, efetividade das tarefas, quantidade de erros ocorridos em cada ação, tempo gasto para finalização das tarefas e se a aparência da interface do sistema é adequada.
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+## Método Utilizado : Medição e Avaliação
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+- Facilidade em realizar a ação;
+- Efetividade da tarefa realizada;
+- Quantidade de erros ocorridos em cada ação;
+- Tempo necessário para conclusão da tarefa;
+- Outros fatores relevantes para a avaliação da interface do sistema.
+
+Para cada tarefa e será possível medir:
+
+| Tarefa  | Critério de Êxito                                | Avaliação                                                         |
+|---------|--------------------------------------------------|------------------------------------------------------------------------------|
+| Tarefa 1| Concluir o cadastro, seguido pela notificação de sucesso e direcionamento do sistema para a tela de login. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema |
+| Tarefa 2| Concluir o login no sistema, seguindo o direcionamento do sistema para tela com a listagem das últimas notícias compartilhadas. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa. Avaliação da interface do sistema |
+| Tarefa 3| O sistema será direcionado para uma página inicial com as últimas notícias compartilhadas pelos usuários. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema. |
+| Tarefa 4| Verificar a lista de notícias, clicar em notícia e ser redirecionado para a o site onde está a notícia completa. | Facilidade em realizar a ação; Efetividade da tarefa realizada; Quantidade de erros cometidos;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema |
+| Tarefa 5| Concluir o cadastro de uma notícia específica, seguido pela notificação de sucesso e direcionamento para a tela com a listagem das últimas notícias compartilhadas. | Facilidade em realizar a ação; Efetividade da tarefa realizada;  Tempo necessário para conclusão da tarefa; Avaliação da interface do sistema |
