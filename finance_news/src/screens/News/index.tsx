@@ -46,7 +46,7 @@ export function News() {
       const { data } = await api.get('/news/?_expand=user&_sort=createdAt&_order=desc');
       setNews(data);
     } catch (error) {
-      Alert.alert('Notícias', 'Não foi possível carregar as notícias.');
+      Alert.alert('Erro ⚠', 'Não foi possível carregar as notícias.');
     } finally {
       setIsLoading(false);
     }
@@ -63,7 +63,7 @@ export function News() {
         backgroundColor="transparent"
         translucent
       />
-      <Header />
+      <Header showSignOutButton/>
 
       <Highlight
         title="Últimas Notícias"

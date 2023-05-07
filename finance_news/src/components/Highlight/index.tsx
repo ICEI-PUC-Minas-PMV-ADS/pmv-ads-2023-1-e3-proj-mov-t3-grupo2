@@ -2,7 +2,7 @@ import { Container, Title, Subtitle } from './styles'
 
 type HightlightProps = {
   title: string
-  subtitle: string
+  subtitle?: string
 }
 
 export function Highlight({ title, subtitle }: HightlightProps) {
