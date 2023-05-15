@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react';
+import { useState, useCallback } from 'react';
 import { FlatList, StatusBar, Alert } from 'react-native';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useFocusEffect } from '@react-navigation/native';
 
 import { api } from '@lib/axios';
 
@@ -38,23 +38,25 @@ export function News() {
     navigation.navigate('addNew');
   }
 
-  // Exibe a lista de notícias em ordem decrescente de criação
-  // Caso as notícias não sejam carregadas, exibe uma mensagem de erro
-  async function fetchNews() {
+  const fetchNews = useCallback(async () => {
     try {
       setIsLoading(true);
-      const { data } = await api.get('/news/?_expand=user&_sort=createdAt&_order=desc');
+      const { data } = await api.get(
+        '/news/?_expand=user&_sort=createdAt&_order=desc'
+      );
       setNews(data);
     } catch (error) {
       Alert.alert('Erro ⚠', 'Não foi possível carregar as notícias.');
     } finally {
       setIsLoading(false);
     }
-  }
-
-  useEffect(() => {
-    fetchNews();
   }, []);
+
+  useFocusEffect(
+    useCallback(() => {
+      fetchNews();
+    }, [fetchNews])
+  );
 
   return (
     <Container>
@@ -63,7 +65,7 @@ export function News() {
         backgroundColor="transparent"
         translucent
       />
-      <Header showSignOutButton/>
+      <Header showSignOutButton />
 
       <Highlight
         title="Últimas Notícias"
