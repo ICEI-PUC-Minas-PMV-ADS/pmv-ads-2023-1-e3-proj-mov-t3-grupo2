@@ -1,15 +1,89 @@
-# Programação de Funcionalidades
+# Funcionalidades do sistema
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nesta sessão, apresentaremos as telas desenvolvidas para cada uma das funcionalidades do sistema e suas respectivas atribuições.
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+* Tela de Cadastro
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+Tela que permite ao usuário realizar o cadastro na aplicação. 
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+![cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/0df10c71-febf-4053-9bd3-0c7d147dbc0c)
+
+**Requisitos atendidos:**
+
+*RF-001	O aplicativo deve permitir que o usuário se cadastre*
+
+**Artefatos da funcionalidade**
+
+SignUp
+
+index.tsx
+
+styles.ts
+
+**Estrutura de dados**
+
+![estruturadadoscad](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/385f6a6e-ec08-4c2a-aa38-7f888fb3dac6)
+
+
+* Tela de Login
+
+Tela de acesso aos usuários que já possuem cadastro, para que realizem seu login e usufruam das demais funcionalidades.
+
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/39631846-3d82-4ac5-a9fe-933dfc580ecd)
+
+**Requisitos atendidos:**
+
+*RF-002	O aplicativo deve permitir que o usuário realize o login*
+
+**Artefatos da funcionalidade**
+
+Login
+
+index.tsx
+
+styles.ts
+
+**Estrutura de dados**
+
+![estruturadadoslog](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/19f226db-1027-47dc-85ea-2f18c6ceb179)
+
+* Home-page: Lista de notícias
+
+A tela principal permite que os usuários acessem as principais notícias do mercado financeiro, sendo direcionados à fonte da notícia através de links vinculados à web.
+
+![home-page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/58bc3bbd-f686-4fbb-8957-5296696e9b0d)
+
+**Requisitos atendidos:**
+
+*RF-003	O aplicativo deve permitir que o usuário visualize a lista de links com as notícias mais recentes*
+
+**Artefatos da funcionalidade**
+
+News
+
+index.tsx
+
+styles.ts
+
+**Estrutura de dados**
+
+![estruturadadoshp](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/6984c018-62ae-413c-9fc2-fe8d84eef099)
+
+
+* Tela de compartilhamento de notícias
+
+Agora, o usuário poderá também compartilhar as notícias que considerar interessante aos demais interessados no mercado financeiro, agregando assim, interação entre o público-alvo.
+
+![compnoticias](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t3-grupo2/assets/104279068/858184d1-512d-4f5e-8b17-9517bb7cdbf4)
+
+**Requisitos atendidos:**
+
+*RF-004	O aplicativo deve permitir que o usuário cadastre uma nova notícias*
+
+**Artefatos da funcionalidade**
+
+AddNew
+
+index.tsx
+
+styles.ts
